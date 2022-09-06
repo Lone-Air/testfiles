@@ -1,0 +1,1 @@
+A simple algorithm converts an array into the correct content and outputs it verbatim
