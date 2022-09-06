@@ -1,3 +1,3 @@
 # Test Files
 ---
-There are some files for test only
+There are some files for testing only
